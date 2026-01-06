@@ -8,3 +8,5 @@ Binary classification using win or loss condition as the target
 ### for later:
 
 * perhaps combine two chess datasets in a meaningful way (GM games and 60,000 general games)
+
+# next, will set up an ML pipeline using kubeflow or soemthing simiklar, use an Chess.com API instead of one dataset and analyze the text to predict who wins.
